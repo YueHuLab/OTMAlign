@@ -1,0 +1,41 @@
+Aligning C-alpha trace of RPIC_all/d1olza2.pdb (N=474) to RPIC_all/d2trcb_.pdb (M=340)
+
+Starting Sinkhorn-ICP iterations...
+Iteration 001: Soft TM-score = 0.000000, Change = 0.000000
+Iteration 002: Soft TM-score = 0.477798, Change = 0.477798
+Iteration 003: Soft TM-score = 0.479014, Change = 0.001216
+Iteration 004: Soft TM-score = 0.480735, Change = 0.001721
+Iteration 005: Soft TM-score = 0.483034, Change = 0.002300
+Iteration 006: Soft TM-score = 0.485300, Change = 0.002265
+Iteration 007: Soft TM-score = 0.486979, Change = 0.001679
+Iteration 008: Soft TM-score = 0.488071, Change = 0.001092
+Iteration 009: Soft TM-score = 0.488741, Change = 0.000670
+Iteration 010: Soft TM-score = 0.489249, Change = 0.000508
+Iteration 011: Soft TM-score = 0.489699, Change = 0.000451
+Iteration 012: Soft TM-score = 0.490171, Change = 0.000472
+Iteration 013: Soft TM-score = 0.490772, Change = 0.000601
+Iteration 014: Soft TM-score = 0.491745, Change = 0.000973
+Iteration 015: Soft TM-score = 0.493157, Change = 0.001411
+Iteration 016: Soft TM-score = 0.494660, Change = 0.001504
+Iteration 017: Soft TM-score = 0.495909, Change = 0.001249
+Iteration 018: Soft TM-score = 0.496908, Change = 0.000999
+Iteration 019: Soft TM-score = 0.497763, Change = 0.000855
+Iteration 020: Soft TM-score = 0.498481, Change = 0.000718
+Iteration 021: Soft TM-score = 0.499088, Change = 0.000607
+Iteration 022: Soft TM-score = 0.499629, Change = 0.000541
+Iteration 023: Soft TM-score = 0.500127, Change = 0.000498
+Iteration 024: Soft TM-score = 0.500528, Change = 0.000401
+Iteration 025: Soft TM-score = 0.500788, Change = 0.000259
+Iteration 026: Soft TM-score = 0.500912, Change = 0.000124
+Iteration 027: Soft TM-score = 0.500953, Change = 0.000041
+Iteration 028: Soft TM-score = 0.500941, Change = -0.000012
+
+Converged after 28 iterations.
+
+--- Final Analysis ---
+Final C-alpha RMSD on 253 aligned pairs: 9.6090 Å
+Final TM-score (normalized by reference, L=340): 0.573342
+Final TM-score (normalized by mobile,   L=474): 0.430994
+
+Applying transformation to full-atom model and saving to results/pdb_aligned/d1olza2_aligned_to_d2trcb_.pdb...
+Success!

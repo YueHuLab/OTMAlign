@@ -1,0 +1,39 @@
+Aligning C-alpha trace of RPIC_all/d1ed9a_.pdb (N=449) to RPIC_all/d1p49a_.pdb (M=548)
+
+Starting Sinkhorn-ICP iterations...
+Iteration 001: Soft TM-score = 0.015468, Change = 0.015468
+Iteration 002: Soft TM-score = 0.607906, Change = 0.592438
+Iteration 003: Soft TM-score = 0.609510, Change = 0.001604
+Iteration 004: Soft TM-score = 0.611396, Change = 0.001886
+Iteration 005: Soft TM-score = 0.614304, Change = 0.002907
+Iteration 006: Soft TM-score = 0.617709, Change = 0.003405
+Iteration 007: Soft TM-score = 0.619881, Change = 0.002172
+Iteration 008: Soft TM-score = 0.621333, Change = 0.001452
+Iteration 009: Soft TM-score = 0.622515, Change = 0.001182
+Iteration 010: Soft TM-score = 0.623828, Change = 0.001312
+Iteration 011: Soft TM-score = 0.625664, Change = 0.001837
+Iteration 012: Soft TM-score = 0.627849, Change = 0.002185
+Iteration 013: Soft TM-score = 0.630053, Change = 0.002204
+Iteration 014: Soft TM-score = 0.631794, Change = 0.001741
+Iteration 015: Soft TM-score = 0.633024, Change = 0.001230
+Iteration 016: Soft TM-score = 0.633934, Change = 0.000910
+Iteration 017: Soft TM-score = 0.634590, Change = 0.000656
+Iteration 018: Soft TM-score = 0.635020, Change = 0.000430
+Iteration 019: Soft TM-score = 0.635279, Change = 0.000259
+Iteration 020: Soft TM-score = 0.635431, Change = 0.000152
+Iteration 021: Soft TM-score = 0.635521, Change = 0.000089
+Iteration 022: Soft TM-score = 0.635575, Change = 0.000054
+Iteration 023: Soft TM-score = 0.635608, Change = 0.000033
+Iteration 024: Soft TM-score = 0.635628, Change = 0.000020
+Iteration 025: Soft TM-score = 0.635642, Change = 0.000014
+Iteration 026: Soft TM-score = 0.635649, Change = 0.000007
+
+Converged after 26 iterations.
+
+--- Final Analysis ---
+Final C-alpha RMSD on 375 aligned pairs: 5.6855 Å
+Final TM-score (normalized by reference, L=548): 0.566005
+Final TM-score (normalized by mobile,   L=449): 0.672302
+
+Applying transformation to full-atom model and saving to results/pdb_aligned/d1ed9a__aligned_to_d1p49a_.pdb...
+Success!

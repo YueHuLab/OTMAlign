@@ -1,0 +1,40 @@
+Aligning C-alpha trace of RPIC_all/d1ng4a2.pdb (N=88) to RPIC_all/d3cox_2.pdb (M=130)
+
+Starting Sinkhorn-ICP iterations...
+Iteration 001: Soft TM-score = 0.000000, Change = 0.000000
+Iteration 002: Soft TM-score = 0.281878, Change = 0.281878
+Iteration 003: Soft TM-score = 0.283956, Change = 0.002078
+Iteration 004: Soft TM-score = 0.285715, Change = 0.001760
+Iteration 005: Soft TM-score = 0.287088, Change = 0.001373
+Iteration 006: Soft TM-score = 0.288182, Change = 0.001094
+Iteration 007: Soft TM-score = 0.289128, Change = 0.000945
+Iteration 008: Soft TM-score = 0.289947, Change = 0.000820
+Iteration 009: Soft TM-score = 0.290670, Change = 0.000722
+Iteration 010: Soft TM-score = 0.291396, Change = 0.000726
+Iteration 011: Soft TM-score = 0.292259, Change = 0.000863
+Iteration 012: Soft TM-score = 0.293346, Change = 0.001087
+Iteration 013: Soft TM-score = 0.294603, Change = 0.001257
+Iteration 014: Soft TM-score = 0.295712, Change = 0.001109
+Iteration 015: Soft TM-score = 0.296510, Change = 0.000798
+Iteration 016: Soft TM-score = 0.297121, Change = 0.000611
+Iteration 017: Soft TM-score = 0.297639, Change = 0.000517
+Iteration 018: Soft TM-score = 0.298066, Change = 0.000428
+Iteration 019: Soft TM-score = 0.298393, Change = 0.000327
+Iteration 020: Soft TM-score = 0.298629, Change = 0.000235
+Iteration 021: Soft TM-score = 0.298791, Change = 0.000162
+Iteration 022: Soft TM-score = 0.298898, Change = 0.000107
+Iteration 023: Soft TM-score = 0.298966, Change = 0.000068
+Iteration 024: Soft TM-score = 0.299008, Change = 0.000042
+Iteration 025: Soft TM-score = 0.299031, Change = 0.000023
+Iteration 026: Soft TM-score = 0.299043, Change = 0.000012
+Iteration 027: Soft TM-score = 0.299046, Change = 0.000003
+
+Converged after 27 iterations.
+
+--- Final Analysis ---
+Final C-alpha RMSD on 62 aligned pairs: 7.8044 Å
+Final TM-score (normalized by reference, L=130): 0.269417
+Final TM-score (normalized by mobile,   L=88): 0.339605
+
+Applying transformation to full-atom model and saving to results/pdb_aligned/d1ng4a2_aligned_to_d3cox_2.pdb...
+Success!

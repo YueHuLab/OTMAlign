@@ -1,0 +1,88 @@
+Aligning C-alpha trace of RPIC_all/d1hava_.pdb (N=216) to RPIC_all/d1kxf__.pdb (M=159)
+
+Starting Sinkhorn-ICP iterations...
+Iteration 001: Soft TM-score = 0.000000, Change = 0.000000
+Iteration 002: Soft TM-score = 0.424231, Change = 0.424231
+Iteration 003: Soft TM-score = 0.427420, Change = 0.003189
+Iteration 004: Soft TM-score = 0.431527, Change = 0.004106
+Iteration 005: Soft TM-score = 0.435829, Change = 0.004302
+Iteration 006: Soft TM-score = 0.439610, Change = 0.003782
+Iteration 007: Soft TM-score = 0.442838, Change = 0.003228
+Iteration 008: Soft TM-score = 0.445578, Change = 0.002740
+Iteration 009: Soft TM-score = 0.448234, Change = 0.002656
+Iteration 010: Soft TM-score = 0.450990, Change = 0.002756
+Iteration 011: Soft TM-score = 0.453744, Change = 0.002754
+Iteration 012: Soft TM-score = 0.456821, Change = 0.003076
+Iteration 013: Soft TM-score = 0.460816, Change = 0.003995
+Iteration 014: Soft TM-score = 0.465171, Change = 0.004355
+Iteration 015: Soft TM-score = 0.468697, Change = 0.003526
+Iteration 016: Soft TM-score = 0.471361, Change = 0.002664
+Iteration 017: Soft TM-score = 0.473275, Change = 0.001913
+Iteration 018: Soft TM-score = 0.474500, Change = 0.001225
+Iteration 019: Soft TM-score = 0.475262, Change = 0.000761
+Iteration 020: Soft TM-score = 0.475787, Change = 0.000526
+Iteration 021: Soft TM-score = 0.476238, Change = 0.000451
+Iteration 022: Soft TM-score = 0.476747, Change = 0.000509
+Iteration 023: Soft TM-score = 0.477454, Change = 0.000707
+Iteration 024: Soft TM-score = 0.478509, Change = 0.001055
+Iteration 025: Soft TM-score = 0.479968, Change = 0.001459
+Iteration 026: Soft TM-score = 0.481682, Change = 0.001713
+Iteration 027: Soft TM-score = 0.483398, Change = 0.001716
+Iteration 028: Soft TM-score = 0.484942, Change = 0.001544
+Iteration 029: Soft TM-score = 0.486289, Change = 0.001347
+Iteration 030: Soft TM-score = 0.487496, Change = 0.001207
+Iteration 031: Soft TM-score = 0.488573, Change = 0.001077
+Iteration 032: Soft TM-score = 0.489506, Change = 0.000933
+Iteration 033: Soft TM-score = 0.490347, Change = 0.000841
+Iteration 034: Soft TM-score = 0.491142, Change = 0.000795
+Iteration 035: Soft TM-score = 0.491888, Change = 0.000746
+Iteration 036: Soft TM-score = 0.492565, Change = 0.000678
+Iteration 037: Soft TM-score = 0.493187, Change = 0.000621
+Iteration 038: Soft TM-score = 0.493799, Change = 0.000612
+Iteration 039: Soft TM-score = 0.494473, Change = 0.000674
+Iteration 040: Soft TM-score = 0.495274, Change = 0.000801
+Iteration 041: Soft TM-score = 0.496245, Change = 0.000971
+Iteration 042: Soft TM-score = 0.497354, Change = 0.001108
+Iteration 043: Soft TM-score = 0.498520, Change = 0.001167
+Iteration 044: Soft TM-score = 0.499691, Change = 0.001170
+Iteration 045: Soft TM-score = 0.500866, Change = 0.001175
+Iteration 046: Soft TM-score = 0.502060, Change = 0.001194
+Iteration 047: Soft TM-score = 0.503254, Change = 0.001195
+Iteration 048: Soft TM-score = 0.504433, Change = 0.001179
+Iteration 049: Soft TM-score = 0.505639, Change = 0.001205
+Iteration 050: Soft TM-score = 0.506917, Change = 0.001278
+Iteration 051: Soft TM-score = 0.508226, Change = 0.001309
+Iteration 052: Soft TM-score = 0.509450, Change = 0.001224
+Iteration 053: Soft TM-score = 0.510503, Change = 0.001054
+Iteration 054: Soft TM-score = 0.511453, Change = 0.000950
+Iteration 055: Soft TM-score = 0.512585, Change = 0.001132
+Iteration 056: Soft TM-score = 0.514214, Change = 0.001629
+Iteration 057: Soft TM-score = 0.516538, Change = 0.002323
+Iteration 058: Soft TM-score = 0.519812, Change = 0.003274
+Iteration 059: Soft TM-score = 0.523315, Change = 0.003503
+Iteration 060: Soft TM-score = 0.525859, Change = 0.002544
+Iteration 061: Soft TM-score = 0.527515, Change = 0.001656
+Iteration 062: Soft TM-score = 0.528837, Change = 0.001322
+Iteration 063: Soft TM-score = 0.530088, Change = 0.001251
+Iteration 064: Soft TM-score = 0.531313, Change = 0.001225
+Iteration 065: Soft TM-score = 0.532484, Change = 0.001171
+Iteration 066: Soft TM-score = 0.533569, Change = 0.001085
+Iteration 067: Soft TM-score = 0.534552, Change = 0.000983
+Iteration 068: Soft TM-score = 0.535368, Change = 0.000816
+Iteration 069: Soft TM-score = 0.535952, Change = 0.000584
+Iteration 070: Soft TM-score = 0.536321, Change = 0.000369
+Iteration 071: Soft TM-score = 0.536539, Change = 0.000218
+Iteration 072: Soft TM-score = 0.536661, Change = 0.000122
+Iteration 073: Soft TM-score = 0.536725, Change = 0.000064
+Iteration 074: Soft TM-score = 0.536750, Change = 0.000025
+Iteration 075: Soft TM-score = 0.536753, Change = 0.000003
+
+Converged after 75 iterations.
+
+--- Final Analysis ---
+Final C-alpha RMSD on 136 aligned pairs: 3.5927 Å
+Final TM-score (normalized by reference, L=159): 0.600456
+Final TM-score (normalized by mobile,   L=216): 0.474805
+
+Applying transformation to full-atom model and saving to results/pdb_aligned/d1hava__aligned_to_d1kxf__.pdb...
+Success!

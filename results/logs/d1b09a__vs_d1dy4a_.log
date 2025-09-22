@@ -1,0 +1,16 @@
+Aligning C-alpha trace of RPIC_all/d1b09a_.pdb (N=206) to RPIC_all/d1dy4a_.pdb (M=433)
+
+Starting Sinkhorn-ICP iterations...
+Iteration 001: Soft TM-score = 0.000000, Change = 0.000000
+Iteration 002: Soft TM-score = 0.534244, Change = 0.534244
+Iteration 003: Soft TM-score = 0.534061, Change = -0.000183
+
+Converged after 3 iterations.
+
+--- Final Analysis ---
+Final C-alpha RMSD on 194 aligned pairs: 5.7590 Å
+Final TM-score (normalized by reference, L=433): 0.351876
+Final TM-score (normalized by mobile,   L=206): 0.635481
+
+Applying transformation to full-atom model and saving to results/pdb_aligned/d1b09a__aligned_to_d1dy4a_.pdb...
+Success!

@@ -1,0 +1,40 @@
+Aligning C-alpha trace of RPIC_all/d1ggga_.pdb (N=220) to RPIC_all/d1wdna_.pdb (M=223)
+
+Starting Sinkhorn-ICP iterations...
+Iteration 001: Soft TM-score = 0.000000, Change = 0.000000
+Iteration 002: Soft TM-score = 0.508096, Change = 0.508095
+Iteration 003: Soft TM-score = 0.512122, Change = 0.004026
+Iteration 004: Soft TM-score = 0.516686, Change = 0.004564
+Iteration 005: Soft TM-score = 0.522641, Change = 0.005955
+Iteration 006: Soft TM-score = 0.527678, Change = 0.005037
+Iteration 007: Soft TM-score = 0.531216, Change = 0.003538
+Iteration 008: Soft TM-score = 0.534182, Change = 0.002966
+Iteration 009: Soft TM-score = 0.537614, Change = 0.003432
+Iteration 010: Soft TM-score = 0.542914, Change = 0.005300
+Iteration 011: Soft TM-score = 0.549199, Change = 0.006285
+Iteration 012: Soft TM-score = 0.554430, Change = 0.005232
+Iteration 013: Soft TM-score = 0.558136, Change = 0.003706
+Iteration 014: Soft TM-score = 0.560802, Change = 0.002666
+Iteration 015: Soft TM-score = 0.562952, Change = 0.002150
+Iteration 016: Soft TM-score = 0.565004, Change = 0.002053
+Iteration 017: Soft TM-score = 0.567102, Change = 0.002097
+Iteration 018: Soft TM-score = 0.569069, Change = 0.001968
+Iteration 019: Soft TM-score = 0.570567, Change = 0.001497
+Iteration 020: Soft TM-score = 0.571443, Change = 0.000877
+Iteration 021: Soft TM-score = 0.571862, Change = 0.000419
+Iteration 022: Soft TM-score = 0.572047, Change = 0.000184
+Iteration 023: Soft TM-score = 0.572129, Change = 0.000082
+Iteration 024: Soft TM-score = 0.572168, Change = 0.000039
+Iteration 025: Soft TM-score = 0.572188, Change = 0.000020
+Iteration 026: Soft TM-score = 0.572199, Change = 0.000011
+Iteration 027: Soft TM-score = 0.572206, Change = 0.000006
+
+Converged after 27 iterations.
+
+--- Final Analysis ---
+Final C-alpha RMSD on 172 aligned pairs: 4.0883 Å
+Final TM-score (normalized by reference, L=223): 0.568458
+Final TM-score (normalized by mobile,   L=220): 0.574523
+
+Applying transformation to full-atom model and saving to results/pdb_aligned/d1ggga__aligned_to_d1wdna_.pdb...
+Success!

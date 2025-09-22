@@ -1,0 +1,31 @@
+Aligning C-alpha trace of RPIC_all/d1l5ba_.pdb (N=101) to RPIC_all/d1l5ea_.pdb (M=101)
+
+Starting Sinkhorn-ICP iterations...
+Iteration 001: Soft TM-score = 0.000000, Change = 0.000000
+Iteration 002: Soft TM-score = 0.195593, Change = 0.195593
+Iteration 003: Soft TM-score = 0.211760, Change = 0.016168
+Iteration 004: Soft TM-score = 0.217898, Change = 0.006138
+Iteration 005: Soft TM-score = 0.222155, Change = 0.004257
+Iteration 006: Soft TM-score = 0.225758, Change = 0.003603
+Iteration 007: Soft TM-score = 0.230837, Change = 0.005079
+Iteration 008: Soft TM-score = 0.238461, Change = 0.007623
+Iteration 009: Soft TM-score = 0.245589, Change = 0.007128
+Iteration 010: Soft TM-score = 0.249766, Change = 0.004177
+Iteration 011: Soft TM-score = 0.251353, Change = 0.001587
+Iteration 012: Soft TM-score = 0.252403, Change = 0.001050
+Iteration 013: Soft TM-score = 0.253266, Change = 0.000863
+Iteration 014: Soft TM-score = 0.253993, Change = 0.000727
+Iteration 015: Soft TM-score = 0.254530, Change = 0.000537
+Iteration 016: Soft TM-score = 0.254827, Change = 0.000297
+Iteration 017: Soft TM-score = 0.254882, Change = 0.000055
+Iteration 018: Soft TM-score = 0.254730, Change = -0.000152
+
+Converged after 18 iterations.
+
+--- Final Analysis ---
+Final C-alpha RMSD on 59 aligned pairs: 7.5932 Å
+Final TM-score (normalized by reference, L=101): 0.288267
+Final TM-score (normalized by mobile,   L=101): 0.288267
+
+Applying transformation to full-atom model and saving to results/pdb_aligned/d1l5ba__aligned_to_d1l5ea_.pdb...
+Success!

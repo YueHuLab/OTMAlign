@@ -1,0 +1,74 @@
+Aligning C-alpha trace of RPIC_all/d2adma_.pdb (N=385) to RPIC_all/d2hmyb_.pdb (M=327)
+
+Starting Sinkhorn-ICP iterations...
+Iteration 001: Soft TM-score = 0.013224, Change = 0.013224
+Iteration 002: Soft TM-score = 0.342223, Change = 0.328999
+Iteration 003: Soft TM-score = 0.343462, Change = 0.001239
+Iteration 004: Soft TM-score = 0.344719, Change = 0.001257
+Iteration 005: Soft TM-score = 0.345919, Change = 0.001199
+Iteration 006: Soft TM-score = 0.346941, Change = 0.001022
+Iteration 007: Soft TM-score = 0.347762, Change = 0.000821
+Iteration 008: Soft TM-score = 0.348472, Change = 0.000710
+Iteration 009: Soft TM-score = 0.349201, Change = 0.000728
+Iteration 010: Soft TM-score = 0.350017, Change = 0.000816
+Iteration 011: Soft TM-score = 0.350929, Change = 0.000912
+Iteration 012: Soft TM-score = 0.351989, Change = 0.001060
+Iteration 013: Soft TM-score = 0.353323, Change = 0.001334
+Iteration 014: Soft TM-score = 0.355245, Change = 0.001922
+Iteration 015: Soft TM-score = 0.357960, Change = 0.002715
+Iteration 016: Soft TM-score = 0.360810, Change = 0.002850
+Iteration 017: Soft TM-score = 0.363268, Change = 0.002458
+Iteration 018: Soft TM-score = 0.365207, Change = 0.001939
+Iteration 019: Soft TM-score = 0.366648, Change = 0.001440
+Iteration 020: Soft TM-score = 0.367891, Change = 0.001244
+Iteration 021: Soft TM-score = 0.369323, Change = 0.001432
+Iteration 022: Soft TM-score = 0.370908, Change = 0.001585
+Iteration 023: Soft TM-score = 0.372362, Change = 0.001454
+Iteration 024: Soft TM-score = 0.373530, Change = 0.001168
+Iteration 025: Soft TM-score = 0.374509, Change = 0.000979
+Iteration 026: Soft TM-score = 0.375465, Change = 0.000956
+Iteration 027: Soft TM-score = 0.376573, Change = 0.001108
+Iteration 028: Soft TM-score = 0.378016, Change = 0.001443
+Iteration 029: Soft TM-score = 0.379722, Change = 0.001707
+Iteration 030: Soft TM-score = 0.381481, Change = 0.001759
+Iteration 031: Soft TM-score = 0.383248, Change = 0.001767
+Iteration 032: Soft TM-score = 0.385265, Change = 0.002017
+Iteration 033: Soft TM-score = 0.387419, Change = 0.002154
+Iteration 034: Soft TM-score = 0.389488, Change = 0.002068
+Iteration 035: Soft TM-score = 0.391252, Change = 0.001764
+Iteration 036: Soft TM-score = 0.392588, Change = 0.001337
+Iteration 037: Soft TM-score = 0.393753, Change = 0.001165
+Iteration 038: Soft TM-score = 0.394874, Change = 0.001121
+Iteration 039: Soft TM-score = 0.395899, Change = 0.001024
+Iteration 040: Soft TM-score = 0.396872, Change = 0.000973
+Iteration 041: Soft TM-score = 0.397892, Change = 0.001020
+Iteration 042: Soft TM-score = 0.398991, Change = 0.001099
+Iteration 043: Soft TM-score = 0.400095, Change = 0.001104
+Iteration 044: Soft TM-score = 0.401145, Change = 0.001050
+Iteration 045: Soft TM-score = 0.402190, Change = 0.001045
+Iteration 046: Soft TM-score = 0.403306, Change = 0.001116
+Iteration 047: Soft TM-score = 0.404613, Change = 0.001307
+Iteration 048: Soft TM-score = 0.406341, Change = 0.001727
+Iteration 049: Soft TM-score = 0.408357, Change = 0.002016
+Iteration 050: Soft TM-score = 0.410059, Change = 0.001702
+Iteration 051: Soft TM-score = 0.411310, Change = 0.001252
+Iteration 052: Soft TM-score = 0.412581, Change = 0.001270
+Iteration 053: Soft TM-score = 0.414013, Change = 0.001432
+Iteration 054: Soft TM-score = 0.415319, Change = 0.001306
+Iteration 055: Soft TM-score = 0.416274, Change = 0.000955
+Iteration 056: Soft TM-score = 0.416853, Change = 0.000579
+Iteration 057: Soft TM-score = 0.417162, Change = 0.000309
+Iteration 058: Soft TM-score = 0.417311, Change = 0.000150
+Iteration 059: Soft TM-score = 0.417375, Change = 0.000063
+Iteration 060: Soft TM-score = 0.417394, Change = 0.000019
+Iteration 061: Soft TM-score = 0.417390, Change = -0.000005
+
+Converged after 61 iterations.
+
+--- Final Analysis ---
+Final C-alpha RMSD on 196 aligned pairs: 7.7582 Å
+Final TM-score (normalized by reference, L=327): 0.449142
+Final TM-score (normalized by mobile,   L=385): 0.391940
+
+Applying transformation to full-atom model and saving to results/pdb_aligned/d2adma__aligned_to_d2hmyb_.pdb...
+Success!
